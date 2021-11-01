@@ -3,7 +3,8 @@
   "type": "module",
   "provides": {
     "bad-one": {
-      "description": "this is a bad one"
+      "description": "this is a bad one",
+      "steps": {}
     }
   }
 }
