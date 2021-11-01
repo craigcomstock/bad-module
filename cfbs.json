@@ -4,9 +4,9 @@
   "provides": {
     "bad-one": {
       "description": "this is a bad one",
-      "steps": {
+      "steps": [
         "json def.json def.json"
-      }
+      ]
     }
   }
 }
