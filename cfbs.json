@@ -1,5 +1,7 @@
 {
   "name": "bad",
   "type": "module",
-  "provides": {}
+  "provides": {
+    "bad-one": {}
+  }
 }
