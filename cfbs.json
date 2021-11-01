@@ -2,6 +2,8 @@
   "name": "bad",
   "type": "module",
   "provides": {
-    "bad-one": {}
+    "bad-one": {
+      "description": "this is a bad one"
+    }
   }
 }
